@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Article Archiving and Interchange DTD v1.4//EN" "https://jats.nlm.nih.gov/archiving/1.4/JATS-archivearticle1-4.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         article-type="editorial"
+         xml:lang="es">
+   <front>
+      <journal-meta>
+         <journal-title-group>
+            <journal-title>Bioeconomía y territorio</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2500-7211</issn>
+         <publisher>
+            <publisher-name>SENA - Centro de Diseño e Innovación Tecnológica Industrial – CDITI - Regional Risaralda</publisher-name>
+            <publisher-loc>Bogotá, Colombia</publisher-loc>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>editorial</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Editorial</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Editor's note</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author" id="a21">
+               <name>
+                  <surname>García Buitrago</surname>
+                  <given-names>Juan Carlos</given-names>
+               </name>
+            </contrib>
+         </contrib-group>
+         <pub-date pub-type="epub-ppub">
+            <month>01</month>
+            <year>2026</year>
+         </pub-date>
+         <volume>9</volume>
+         <issue>1</issue>
+         <permissions>
+            <copyright-year>2026</copyright-year>
+         </permissions>
+         <custom-meta-group>
+            <custom-meta>
+               <meta-name>xml-lang</meta-name>
+               <meta-value>es</meta-value>
+            </custom-meta>
+         </custom-meta-group>
+      </article-meta>
+   </front>
+   <body>
+      <p>Para el SENA, Centro de Diseño e Innovación Tecnológica Industrial es un placer presentar la 9na edición de la revista TEINNOVA – Una Mirada de Innovación. Desde la maravillosa región del Eje Cafetero, en Colombia, se acentúa un espacio académico para el encuentro y la reflexión, alrededor de los procesos investigativos.</p>
+      <p>En esta edición el lector encontrará diversas temáticas, desde bioeconomía y territorio, modelos de innovación para la comunicación organizacional, hasta aspectos de logística inversa propuestos por diferentes autores nacionales e internacionales.</p>
+      <p>Esta edición buscó reunir estrategias y nuevas tendencias mundiales, en el uso de las tecnologías disruptivas, bioeconomía y territorio con un enfoque hacia la sostenibilidad, presentar el desarrollo de tecnologías y procesos innovadores para la transformación de recursos, así como en la implementación de nuevas técnicas de utilización de maderas plásticas, diseño de prototipos biomédicos y gestión eficiente del uso de recursos naturales y la implementación de tecnologías limpias.</p>
+      <p>Agradecemos a todos los autores por haber puesto en consideración sus trabajos y plasmar los avances, desarrollo y evolución, de igual forma un especial agradecimiento a todos los pares ciegos que hacen posible que se garantice la rigurosidad escritural en el proceso de gestión editorial. Sin nada más por añadir, esperamos que esta lectura les motive a seguir aprendiendo.</p>
+      <p>¡A disfrutar cada palabra!</p>
+   </body>
+</article>

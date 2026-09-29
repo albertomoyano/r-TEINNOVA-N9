@@ -1,0 +1,9 @@
+Para el SENA, Centro de Diseño e Innovación Tecnológica Industrial es un placer presentar la 9na edición de la revista TEINNOVA – Una Mirada de Innovación. Desde la maravillosa región del Eje Cafetero, en Colombia, se acentúa un espacio académico para el encuentro y la reflexión, alrededor de los procesos investigativos.
+
+En esta edición el lector encontrará diversas temáticas, desde bioeconomía y territorio, modelos de innovación para la comunicación organizacional, hasta aspectos de logística inversa propuestos por diferentes autores nacionales e internacionales.
+
+Esta edición buscó reunir estrategias y nuevas tendencias mundiales, en el uso de las tecnologías disruptivas, bioeconomía y territorio con un enfoque hacia la sostenibilidad, presentar el desarrollo de tecnologías y procesos innovadores para la transformación de recursos, así como en la implementación de nuevas técnicas de utilización de maderas plásticas, diseño de prototipos biomédicos y gestión eficiente del uso de recursos naturales y la implementación de tecnologías limpias.
+
+Agradecemos a todos los autores por haber puesto en consideración sus trabajos y plasmar los avances, desarrollo y evolución, de igual forma un especial agradecimiento a todos los pares ciegos que hacen posible que se garantice la rigurosidad escritural en el proceso de gestión editorial. Sin nada más por añadir, esperamos que esta lectura les motive a seguir aprendiendo.
+
+¡A disfrutar cada palabra!

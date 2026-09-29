@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<front xmlns:xlink="http://www.w3.org/1999/xlink">
+  <journal-meta>
+    <journal-title-group>
+      <journal-title>Bioeconomía y territorio</journal-title>
+    </journal-title-group>
+    <issn pub-type="ppub">2500-7211</issn>
+    <publisher>
+      <publisher-name>SENA - Centro de Diseño e Innovación Tecnológica Industrial – CDITI - Regional Risaralda</publisher-name>
+      <publisher-loc>Bogotá, Colombia</publisher-loc>
+    </publisher>
+  </journal-meta>
+  <article-meta>
+    <article-categories>
+      <subj-group subj-group-type="heading">
+        <subject>editorial</subject>
+      </subj-group>
+    </article-categories>
+    <title-group>
+      <article-title>Editorial</article-title>
+      <trans-title-group xml:lang="en">
+        <trans-title>Editor&apos;s note</trans-title>
+      </trans-title-group>
+    </title-group>
+    <contrib-group>
+      <contrib contrib-type="author" id="a21">
+        <name>
+          <surname>García Buitrago</surname>
+          <given-names>Juan Carlos</given-names>
+        </name>
+      </contrib>
+    </contrib-group>
+    <pub-date pub-type="epub-ppub">
+      <month>01</month>
+      <year>2026</year>
+    </pub-date>
+    <volume>9</volume>
+    <issue>1</issue>
+    <permissions>
+      <copyright-year>2026</copyright-year>
+    </permissions>
+    <custom-meta-group>
+      <custom-meta>
+        <meta-name>xml-lang</meta-name>
+        <meta-value>es</meta-value>
+      </custom-meta>
+    </custom-meta-group>
+  </article-meta>
+</front>
